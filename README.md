@@ -10,3 +10,7 @@ share feeling of your awesome and favorite animation
     Feature: Search timetable
         As a user of anime-share, I search with word 'Hagaren' and can find the timetable,
         I add this timetable to my favorites.
+
+Features will be moved to *.feature files.
+
+This app should be implemented via BDD with cucamber.js(on Node.js).
