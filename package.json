@@ -1,0 +1,14 @@
+{
+  "name": "anime-share",
+  "description": "share feeling of your awesome and favorite animation",
+  "version": "0.0.1",
+  "homepage": "http://github.com/p-baleine/anime-share",
+  "dependencies": {
+    "express": "3.x"
+  },
+  "devDependencies": {
+    "cucumber": "latest",
+    "mocha": "*",
+    "should": "*"
+  }
+}
